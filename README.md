@@ -1,3 +1,6 @@
+
+*PAY ATTENTION THIS REPOSITORY AND THE ASSOCIATED GEM ARE ARCHIVED! NO LONGER WORK DONE.*  
+
 # ImportPostman
 ## Description
 Using import_postman method you will be able to import a postman collection and create a Ruby Requests Hash containing the path, headers, data...
